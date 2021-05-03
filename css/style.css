@@ -2137,6 +2137,10 @@ main {
     padding: 0 60px;
     padding-left: 120px;
   }
+  
+  #ecom{
+  font-size: 4rem !important;
+}
 
   .header .swiper-container .swiper-slide h5 {
     font-size: 28px;
