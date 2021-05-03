@@ -1035,7 +1035,7 @@ a {
 }
 
 main {
-  width: 130%;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   margin-top: 100vh;
