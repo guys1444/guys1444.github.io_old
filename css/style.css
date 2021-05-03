@@ -2234,6 +2234,15 @@ main {
   .navbar {
     padding: 30px 25px;
   }
+  
+  main {
+    width: 130%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100vh;
+    background: #fff;
+    position: relative;
+}
 
   .ur_code h2 {
     color: #fff;
