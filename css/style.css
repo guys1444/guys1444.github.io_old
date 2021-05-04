@@ -2226,11 +2226,11 @@ main {
 
   .footer .container {
     flex-direction: column;
-    text-align: left;
+    text-align: center;
   }
 
   .footer .container .content-box:nth-child(3) {
-    text-align: left;
+    text-align: center;
   }
 }
 /* RESPONSIVE MOBILE FIXES */
